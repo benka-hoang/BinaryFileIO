@@ -1,0 +1,1 @@
+MYMERGEFILE -s F:\Test_thu_Nho_xoa\ONE_TIME\text.txt.part01  -d F:\Test_thu_Nho_xoa\SECOND_TIME

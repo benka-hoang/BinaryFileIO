@@ -1,0 +1,2 @@
+MYSPLITFILE -s F:\Test_thu_Nho_xoa\ONE_TIME\text.txt  -d F:\Test_thu_Nho_xoa\SECOND_TIME -numpart 3
+MYSPLITFILE -s F:\Test_thu_Nho_xoa\ONE_TIME\text.txt  -d F:\Test_thu_Nho_xoa\SECOND_TIME -sizeapart 1000000

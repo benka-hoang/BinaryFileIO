@@ -4,11 +4,6 @@
 
 using namespace std;
 
-fstream Give_me_file(string s) {
-	fstream file(s, ios::out);
-	return file;
-}
-
 pair<bool, pair<string, string>> Check_Format_GiveAddress(string s) {
 	string arr[5];
 	for (int i = 0; i < 5; ++i) arr[i] = "";
